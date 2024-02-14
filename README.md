@@ -23,5 +23,5 @@ This repository serves as a comprehensive collection of lab exercises from vario
     - [Debug a JavaScript Application in Browser Dev Tools/](JavaScript%20Programming%20Essentials/Week%203/Debug%20a%20JavaScript%20Application%20in%20Browser%20Dev%20Tools/)
 
 - # React Basics
-  - ** Week 1**
+  - **Week 1**
     - [Your First Component/](React%20Basics/Week%201/Your%20First%20Component/)
