@@ -21,12 +21,10 @@ This repository serves as a comprehensive collection of lab exercises from vario
     - [Create Text Analysis Tool for Speed Testing Using String Manipulations/](JavaScript%20Programming%20Essentials/Week%202/Create%20Text%20Analysis%20Tool%20for%20Speed%20Testing%20Using%20String%20Manipulations/)
   - **Week 3**
     - [Debug a JavaScript Application in Browser Dev Tools/](JavaScript%20Programming%20Essentials/Week%203/Debug%20a%20JavaScript%20Application%20in%20Browser%20Dev%20Tools/)
-
+    - [Create a To-Do List Using JavaScript/](JavaScript%20Programming%20Essentials/Week%203/Create%20a%20To-Do%20List%20Using%20JavaScript/)
+    - [Develop Colorful Memory Match Game Using JavaScript DOM/](JavaScript%20Programming%20Essentials/Week%203/Develop%20Colorful%20Memory%20Match%20Game%20Using%20JavaScript%20DOM/)
+  - **Week 4**
+    - [Develop an Application to Fetch Health Articles using XMLHttpRequest/][JavaScript%20Programming%20Essentials/Week%204/Develop%20an%20Application%20to%20Fetch%20Health%20Articles%20using%20XMLHttpRequest/]
 - # React Basics
   - **Week 1**
     - [Your First Component/](React%20Basics/Week%201/Your%20First%20Component/)
-
-- # Java Testing
-  - **Week 1**
-    - [Testing with JUnit Lab 1]()
-    - [Lab 2 Software Testing JUnit](Java%20Testing/Lab%202%20Software%20Testing%20JUnit/)
