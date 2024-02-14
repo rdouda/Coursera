@@ -21,3 +21,7 @@ This repository serves as a comprehensive collection of lab exercises from vario
     - [Create Text Analysis Tool for Speed Testing Using String Manipulations/](JavaScript%20Programming%20Essentials/Week%202/Create%20Text%20Analysis%20Tool%20for%20Speed%20Testing%20Using%20String%20Manipulations/)
   - **Week 3**
     - [Debug a JavaScript Application in Browser Dev Tools/](JavaScript%20Programming%20Essentials/Week%203/Debug%20a%20JavaScript%20Application%20in%20Browser%20Dev%20Tools/)
+
+- # React Basics
+  - ** Week 1**
+    - [Your First Component/](React%20Basics/Week%201/Your%20First%20Component/)
