@@ -6,7 +6,7 @@ This repository serves as a comprehensive collection of lab exercises from vario
 
 ## Directory Structure
 
-- **JavaScript Programming Essentials**
+- # JavaScript Programming Essentials
   - **Week 1**
     - [Setting up the Environment/](JavaScript%20Programming%20Essentials/Week%201/Setting%20up%20the%20Environment/)
     - [Working with Variables and Their Scope/](JavaScript%20Programming%20Essentials/Week%201/Working%20with%20Variables%20and%20Their%20Scope/)
@@ -19,3 +19,5 @@ This repository serves as a comprehensive collection of lab exercises from vario
     - [Display Employee Information Using Array Methods/](JavaScript%20Programming%20Essentials/Week%202/Display%20Employee%20Information%20Using%20Array%20Methods/)
     - [Develop an Application to Create Book Management System using Objects/](JavaScript%20Programming%20Essentials/Week%202/Develop%20an%20Application%20to%20Create%20Book%20Management%20System%20using%20Objects/)
     - [Create Text Analysis Tool for Speed Testing Using String Manipulations/](JavaScript%20Programming%20Essentials/Week%202/Create%20Text%20Analysis%20Tool%20for%20Speed%20Testing%20Using%20String%20Manipulations/)
+  - **Week 3**
+    - [Debug a JavaScript Application in Browser Dev Tools/](JavaScript%20Programming%20Essentials/Week%203/Debug%20a%20JavaScript%20Application%20in%20Browser%20Dev%20Tools/)
