@@ -3,7 +3,7 @@ In a local development environment, when you are accessing files using the file:
 You can use Node.js:
 
     Node.js with http-server:
-        Install Node.js if you haven't already.
+        Install Node.js.
         Install http-server globally by running: npm install -g http-server.
         Navigate to your project directory in the terminal.
         Run http-server by typing `npx http-server`
