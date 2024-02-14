@@ -1,4 +1,4 @@
-In a local development environment, when you are accessing files using the file:// protocol, the Same Origin Policy is applied strictly, and you may encounter these issues. To resolve this, consider using a local server or a development server to serve your files.
+In a local development environment, when you are accessing files using the file:// protocol, Origin Policy is applied strictly, and you may encounter these issues. To resolve this, consider using a local server or a development server to serve your files.
 
 You can use Node.js:
 
