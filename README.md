@@ -25,3 +25,8 @@ This repository serves as a comprehensive collection of lab exercises from vario
 - # React Basics
   - **Week 1**
     - [Your First Component/](React%20Basics/Week%201/Your%20First%20Component/)
+
+- # Java Testing
+  - **Week 1**
+    - [Testing with JUnit Lab 1]()
+    - [Lab 2 Software Testing JUnit](Java%20Testing/Lab%202%20Software%20Testing%20JUnit/)
