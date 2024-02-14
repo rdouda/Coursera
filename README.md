@@ -7,5 +7,5 @@ This repository serves as a comprehensive collection of lab exercises from vario
 ## Directory Structure
 
 - **JavaScript Programming Essentials**
-  - `Develop Product Feedback Survey Form Using Events/`
-  - `Display Employee Information Using Array Methods/`
+  - Develop Product Feedback Survey Form Using Events/
+  - Display Employee Information Using Array Methods/
