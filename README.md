@@ -10,3 +10,4 @@ This repository serves as a comprehensive collection of lab exercises from vario
   - Develop Product Feedback Survey Form Using Events/
   - Display Employee Information Using Array Methods/
   - Develop an Application to Create Book Management System using Objects/
+  - Create Text Analysis Tool for Speed Testing Using String Manipulations/
