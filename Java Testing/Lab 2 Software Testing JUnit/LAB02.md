@@ -16,7 +16,6 @@
     import org.junit.Assert;
 
     public class MoneySumTest {
-
         private MoneySum m12DT;
         private MoneySum m14DT;
         private MoneySum m14USD;
