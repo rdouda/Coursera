@@ -26,6 +26,9 @@ This repository serves as a comprehensive collection of lab exercises from vario
   - **Week 4**
     - [Develop an Application to Fetch Health Articles using XMLHttpRequest/](JavaScript%20Programming%20Essentials/Week%204/Develop%20an%20Application%20to%20Fetch%20Health%20Articles%20using%20XMLHttpRequest/)
     - [Call API to Fetch Weather Data/](JavaScript%20Programming%20Essentials/Week%204/Call%20API%20to%20Fetch%20Weather%20Data/)
+  - **Week 5**
+    - [Develop an Application for Healthcare Census](JavaScript%20Programming%20Essentials/Week%205/Develop%20an%20Application%20for%20Healthcare%20Census/)
+    - [Final Project](JavaScript%20Programming%20Essentials/Week%205/Final%20Project/)
 - # React Basics
   - **Week 1**
     - [Your First Component/](React%20Basics/Week%201/Your%20First%20Component/)
