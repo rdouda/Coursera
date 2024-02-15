@@ -30,12 +30,12 @@ This repository serves as a comprehensive collection of lab exercises from vario
       - **Week 5**
         - [Develop an Application for Healthcare Census/](Web%20Technologies%20and%20Programming/JavaScript%20Programming%20with%20React,%20Node%20&%20MongoDB%20Specialization/JavaScript%20Programming%20Essentials/Week%205/Develop%20an%20Application%20for%20Healthcare%20Census/)
         - [Final Project/](Web%20Technologies%20and%20Programming/JavaScript%20Programming%20with%20React,%20Node%20&%20MongoDB%20Specialization/JavaScript%20Programming%20Essentials/Week%205/Final%20Project/)
-    - ## [Developing Front-End Apps with React](Web%20Technologies%20and%20Programming/JavaScript%20Programming%20with%20React,%20Node%20&%20MongoDB%20Specialization/JavaScript%20Programming%20with%20React,%20Node%20&%20MongoDB%20Specialization/Developing%20Front-End%20Apps%20with%20React/)
+    - ## [Developing Front-End Apps with React](Web%20Technologies%20and%20Programming/JavaScript%20Programming%20with%20React,%20Node%20&%20MongoDB%20Specialization/Developing%20Front-End%20Apps%20with%20React/)
 
-    - ## [Developing Back-End Apps with Node.js and Express](Web%20Technologies%20and%20Programming/JavaScript%20Programming%20with%20React,%20Node%20&%20MongoDB%20Specialization/JavaScript%20Programming%20with%20React,%20Node%20&%20MongoDB%20Specialization/Developing%20Back-End%20Apps%20with%20Node.js%20and%20Express/)
+    - ## [Developing Back-End Apps with Node.js and Express](Web%20Technologies%20and%20Programming/JavaScript%20Programming%20with%20React,%20Node%20&%20MongoDB%20Specialization/Developing%20Back-End%20Apps%20with%20Node.js%20and%20Express/)
 
-    - ## [Intermediate Back-end Development with Node and MongoDB](Web%20Technologies%20and%20Programming/JavaScript%20Programming%20with%20React,%20Node%20&%20MongoDB%20Specialization/JavaScript%20Programming%20with%20React,%20Node%20&%20MongoDB%20Specialization/Intermediate%20Back-end%20Development%20with%20Node%20and%20MongoDB/)
-  - # React Basics
+    - ## [Intermediate Back-end Development with Node and MongoDB](Web%20Technologies%20and%20Programming/JavaScript%20Programming%20with%20React,%20Node%20&%20MongoDB%20Specialization/Intermediate%20Back-end%20Development%20with%20Node%20and%20MongoDB/)
+  - # [React Basics](Web%20Technologies%20and%20Programming/React%20Basics/)
     - **Week 1**
       - [Your First Component/](Web%20Technologies%20and%20Programming/React%20Basics/Week%201/Your%20First%20Component/)
-  - # Advanced React
+  - # [Advanced React](Web%20Technologies%20and%20Programming/Advanced%20React/)
