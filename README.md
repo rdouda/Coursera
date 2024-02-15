@@ -31,7 +31,8 @@ This repository serves as a comprehensive collection of lab exercises from vario
         - [Develop an Application for Healthcare Census/](Web%20Technologies%20and%20Programming/JavaScript%20Programming%20with%20React,%20Node%20&%20MongoDB%20Specialization/JavaScript%20Programming%20Essentials/Week%205/Develop%20an%20Application%20for%20Healthcare%20Census/)
         - [Final Project/](Web%20Technologies%20and%20Programming/JavaScript%20Programming%20with%20React,%20Node%20&%20MongoDB%20Specialization/JavaScript%20Programming%20Essentials/Week%205/Final%20Project/)
     - ## [Developing Front-End Apps with React](Web%20Technologies%20and%20Programming/JavaScript%20Programming%20with%20React,%20Node%20&%20MongoDB%20Specialization/Developing%20Front-End%20Apps%20with%20React/)
-      - [Hello World with React/](Web%20Technologies%20and%20Programming/JavaScript%20Programming%20with%20React,%20Node%20&%20MongoDB%20Specialization/Developing%20Front-End%20Apps%20with%20React/Week%201/Hello%20World%20with%20React/)
+      - **Week 1**
+        - [Hello World with React/](Web%20Technologies%20and%20Programming/JavaScript%20Programming%20with%20React,%20Node%20&%20MongoDB%20Specialization/Developing%20Front-End%20Apps%20with%20React/Week%201/Hello%20World%20with%20React/)
 
     - ## [Developing Back-End Apps with Node.js and Express](Web%20Technologies%20and%20Programming/JavaScript%20Programming%20with%20React,%20Node%20&%20MongoDB%20Specialization/Developing%20Back-End%20Apps%20with%20Node.js%20and%20Express/)
 
