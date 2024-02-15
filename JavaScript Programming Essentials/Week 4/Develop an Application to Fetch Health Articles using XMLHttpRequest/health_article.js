@@ -1,5 +1,5 @@
 var xhr = new XMLHttpRequest();
-var url = './health_article.json';
+var url = 'https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBMSkillsNetwork-JS0101EN-SkillsNetwork/health.json';
 xhr.open('GET', url, true);
 xhr.responseType = 'json';
 
