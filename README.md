@@ -25,6 +25,7 @@ This repository serves as a comprehensive collection of lab exercises from vario
     - [Develop Colorful Memory Match Game Using JavaScript DOM/](JavaScript%20Programming%20Essentials/Week%203/Develop%20Colorful%20Memory%20Match%20Game%20Using%20JavaScript%20DOM/)
   - **Week 4**
     - [Develop an Application to Fetch Health Articles using XMLHttpRequest/](JavaScript%20Programming%20Essentials/Week%204/Develop%20an%20Application%20to%20Fetch%20Health%20Articles%20using%20XMLHttpRequest/)
+    - [Call API to Fetch Weather Data/](JavaScript%20Programming%20Essentials/Week%204/Call%20API%20to%20Fetch%20Weather%20Data/)
 - # React Basics
   - **Week 1**
     - [Your First Component/](React%20Basics/Week%201/Your%20First%20Component/)
