@@ -6,7 +6,7 @@ This repository serves as a comprehensive collection of lab exercises from vario
 
 ## Directory Structure
 - # JavaScript Programming with React, Node & MongoDB Specialization
-  - ## JavaScript Programming Essentials
+  - ## [JavaScript Programming Essentials](JavaScript%20Programming%20with%20React,%20Node%20&%20MongoDB%20Specialization/JavaScript%20Programming%20Essentials/)
     - **Week 1**
       - [Setting up the Environment/](JavaScript%20Programming%20Essentials/Week%201/Setting%20up%20the%20Environment/)
       - [Working with Variables and Their Scope/](JavaScript%20Programming%20Essentials/Week%201/Working%20with%20Variables%20and%20Their%20Scope/)
@@ -29,11 +29,11 @@ This repository serves as a comprehensive collection of lab exercises from vario
     - **Week 5**
       - [Develop an Application for Healthcare Census](JavaScript%20Programming%20Essentials/Week%205/Develop%20an%20Application%20for%20Healthcare%20Census/)
       - [Final Project](JavaScript%20Programming%20Essentials/Week%205/Final%20Project/)
-  - ## Developing Front-End Apps with React
+  - ## [Developing Front-End Apps with React](JavaScript%20Programming%20with%20React,%20Node%20&%20MongoDB%20Specialization/Developing%20Front-End%20Apps%20with%20React/)
 
-  - ## Developing Back-End Apps with Node.js and Express
+  - ## [Developing Back-End Apps with Node.js and Express](JavaScript%20Programming%20with%20React,%20Node%20&%20MongoDB%20Specialization/Developing%20Back-End%20Apps%20with%20Node.js%20and%20Express/)
 
-  - ## Intermediate Back-end Development with Node and MongoDB
+  - ## [Intermediate Back-end Development with Node and MongoDB](JavaScript%20Programming%20with%20React,%20Node%20&%20MongoDB%20Specialization/Intermediate%20Back-end%20Development%20with%20Node%20and%20MongoDB/)
 - # React Basics
   - **Week 1**
     - [Your First Component/](React%20Basics/Week%201/Your%20First%20Component/)
