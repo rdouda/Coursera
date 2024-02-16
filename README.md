@@ -3,9 +3,15 @@
 ## Overview
 
 This repository serves as a comprehensive collection of lab exercises from various Coursera courses during my time at the university. Each course has its own directory, and within each directory, you will find the corresponding lab exercises.
+## Courses
+- **Web Technologies and Programming**
+  - [JavaScript Programming with React, Node & MongoDB Specialization](#section1)
+- **Software Testing**
+  - [Foundations of Software Testing and Validation](#section2)
+  - [Java Testing Specialization](#section3)
 
 ## Directory Structure
-- ## [**Web Technologies and Programming**](Web%20Technologies%20and%20Programming)
+- ## [**Web Technologies and Programming**](Web%20Technologies%20and%20Programming)<div id="section1"></div>
   - ### [**JavaScript Programming with React, Node & MongoDB Specialization**](Web%20Technologies%20and%20Programming/JavaScript%20Programming%20with%20React,%20Node%20&%20MongoDB%20Specialization)
     - #### [**JavaScript Programming Essentials**](Web%20Technologies%20and%20Programming/JavaScript%20Programming%20with%20React,%20Node%20&%20MongoDB%20Specialization/JavaScript%20Programming%20Essentials/)
       - Week 1
@@ -52,7 +58,8 @@ This repository serves as a comprehensive collection of lab exercises from vario
     - Week 1
       - [Your First Component/](Web%20Technologies%20and%20Programming/React%20Basics/Week%201/Your%20First%20Component/)
   - ### [Advanced React](Web%20Technologies%20and%20Programming/Advanced%20React/)
-- ## [**Software Testing**](Software%20Testing/)
-  - ### [**Foundations of Software Testing and Validation**]
 
-  - ### [**Java Testing Specialization**]
+- ## [**Software Testing**](Software%20Testing/)
+  - ### [**Foundations of Software Testing and Validation**]()<div id="section2"></div>
+  
+  - ### [**Java Testing Specialization**]()<div id="section3"></div>
