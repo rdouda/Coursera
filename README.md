@@ -6,9 +6,22 @@ This repository serves as a comprehensive collection of lab exercises from vario
 ## Courses
 - **Web Technologies and Programming**
   - [JavaScript Programming with React, Node & MongoDB Specialization](#section1)
+  - [React Basics](#sectionReactBasics)
+  - [Advanced React](#sectionAdvancedReact)
 - **Software Testing**
   - [Foundations of Software Testing and Validation](#section2)
   - [Java Testing Specialization](#section3)
+- **Advanced Algorithms and Complexity**
+
+- **Machine Learning & AI**
+
+- **Database Administration**
+
+- **Data Warehouse**
+
+- **Project Management**
+
+- **Projects**
 
 ## Directory Structure
 - ## [**Web Technologies and Programming**](Web%20Technologies%20and%20Programming)<div id="section1"></div>
@@ -54,10 +67,10 @@ This repository serves as a comprehensive collection of lab exercises from vario
 
       - Week 4
     - #### [**Intermediate Back-end Development with Node and MongoDB**](Web%20Technologies%20and%20Programming/JavaScript%20Programming%20with%20React,%20Node%20&%20MongoDB%20Specialization/Intermediate%20Back-end%20Development%20with%20Node%20and%20MongoDB/)
-  - ### [React Basics](Web%20Technologies%20and%20Programming/React%20Basics/)
+  - ### [React Basics](Web%20Technologies%20and%20Programming/React%20Basics/)<div id="sectionReactBasics"></div>
     - Week 1
       - [Your First Component/](Web%20Technologies%20and%20Programming/React%20Basics/Week%201/Your%20First%20Component/)
-  - ### [Advanced React](Web%20Technologies%20and%20Programming/Advanced%20React/)
+  - ### [Advanced React](Web%20Technologies%20and%20Programming/Advanced%20React/)<div id="sectionAdvancedReact"></div>
 
 - ## [**Software Testing**](Software%20Testing/)
   - ### [**Foundations of Software Testing and Validation**]()<div id="section2"></div>
