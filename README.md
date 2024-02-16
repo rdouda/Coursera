@@ -1,4 +1,4 @@
-# University Coursera Labs Repository
+# **University Coursera Labs Repository**
 
 ## Overview
 
