@@ -5,9 +5,9 @@
 This repository serves as a comprehensive collection of lab exercises from various Coursera courses during my time at the university. Each course has its own directory, and within each directory, you will find the corresponding lab exercises.
 
 ## Directory Structure
-- # [Web Technologies and Programming](Web%20Technologies%20and%20Programming)
-  - # [JavaScript Programming with React, Node & MongoDB Specialization](Web%20Technologies%20and%20Programming/JavaScript%20Programming%20with%20React,%20Node%20&%20MongoDB%20Specialization)
-    - ## [JavaScript Programming Essentials](Web%20Technologies%20and%20Programming/JavaScript%20Programming%20with%20React,%20Node%20&%20MongoDB%20Specialization/JavaScript%20Programming%20Essentials/)
+- ## [Web Technologies and Programming](Web%20Technologies%20and%20Programming)
+  - ### [JavaScript Programming with React, Node & MongoDB Specialization](Web%20Technologies%20and%20Programming/JavaScript%20Programming%20with%20React,%20Node%20&%20MongoDB%20Specialization)
+    - #### [JavaScript Programming Essentials](Web%20Technologies%20and%20Programming/JavaScript%20Programming%20with%20React,%20Node%20&%20MongoDB%20Specialization/JavaScript%20Programming%20Essentials/)
       - **Week 1**
         - [Setting up the Environment/](Web%20Technologies%20and%20Programming/JavaScript%20Programming%20with%20React,%20Node%20&%20MongoDB%20Specialization/JavaScript%20Programming%20Essentials/Week%201/Setting%20up%20the%20Environment/)
         - [Working with Variables and Their Scope/](Web%20Technologies%20and%20Programming/JavaScript%20Programming%20with%20React,%20Node%20&%20MongoDB%20Specialization/JavaScript%20Programming%20Essentials/Week%201/Working%20with%20Variables%20and%20Their%20Scope/)
