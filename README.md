@@ -77,7 +77,7 @@ This repository serves as a comprehensive collection of lab exercises from vario
     - Week 1
       - [Node.js and Express Introduction/](Web%20Technologies%20and%20Programming/Building%20RESTful%20APIs%20with%20Node.js%20and%20Express/Week%201/)
     - Week 2
-
+      - [Connecting MongoDB to API/](Web%20Technologies%20and%20Programming/Building%20RESTful%20APIs%20with%20Node.js%20and%20Express/Week%202/Connecting%20MongoDB%20to%20API/)
     - Week 3
 - ## [**Software Testing**](Software%20Testing/)
   - ### [**Foundations of Software Testing and Validation**]()<div id="section2"></div>
