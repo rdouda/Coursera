@@ -74,6 +74,11 @@ This repository serves as a comprehensive collection of lab exercises from vario
   - ### [Advanced React](Web%20Technologies%20and%20Programming/Advanced%20React/)<div id="sectionAdvancedReact"></div>
 
   - ### [Building RESTful APIs with Node.js and Express](Web%20Technologies%20and%20Programming/Building%20RESTful%20APIs%20with%20Node.js%20and%20Express/)<div id="sectionBuildingRESTfulAPIswithNodejsandExpress"></div>
+    - Week 1
+      - [Node.js and Express Introduction/](Web%20Technologies%20and%20Programming/Building%20RESTful%20APIs%20with%20Node.js%20and%20Express/Week%201/)
+    - Week 2
+
+    - Week 3
 - ## [**Software Testing**](Software%20Testing/)
   - ### [**Foundations of Software Testing and Validation**]()<div id="section2"></div>
   
