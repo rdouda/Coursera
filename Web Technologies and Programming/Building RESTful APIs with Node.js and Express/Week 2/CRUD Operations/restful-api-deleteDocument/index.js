@@ -16,22 +16,29 @@ const client = new MongoClient(uri, {
   }
 });
 
-// Define an asynchronous function 'run' to connect to MongoDB and ping the deployment
 async function run() {
   try {
-    // Connect to the MongoDB deployment using the MongoClient instance
     await client.connect();
 
-    // Send a ping command to the 'admin' database to check the connection
     await client.db("admin").command({ ping: 1 });
-
-    // Log a success message if the connection and ping are successful
     console.log("Pinged your deployment. You successfully connected to MongoDB!");
+
+    // Access the 'inventory' collection in the connected database
+    const db = client.db();
+
+    // Insert a new document into the 'inventory' collection
+    await db.collection('inventory').insertOne({
+      item: 'canvas',
+      qty: 100,
+      tags: ['cotton'],
+      size: { h: 28, w: 35.5, uom: 'cm' }
+    });
+
+    console.log("New document inserted into the 'inventory' collection!");
+
   } finally {
-    // Close the MongoClient connection in the 'finally' block to ensure proper cleanup
     await client.close();
   }
 }
 
-// Execute the 'run' function and handle any errors by logging them to the console
 run().catch(console.dir);
