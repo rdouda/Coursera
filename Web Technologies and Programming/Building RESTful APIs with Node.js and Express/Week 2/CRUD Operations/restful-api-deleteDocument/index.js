@@ -26,15 +26,7 @@ async function run() {
     // Access the 'inventory' collection in the connected database
     const db = client.db();
 
-    // Insert a new document into the 'inventory' collection
-    await db.collection('inventory').insertOne({
-      item: 'canvas',
-      qty: 100,
-      tags: ['cotton'],
-      size: { h: 28, w: 35.5, uom: 'cm' }
-    });
-
-    console.log("New document inserted into the 'inventory' collection!");
+    // TODO: Delete operations
 
   } finally {
     await client.close();
