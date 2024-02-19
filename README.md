@@ -22,6 +22,8 @@ This repository serves as a comprehensive collection of lab exercises from vario
 
 - **Project Management**
 
+- **Projects**
+
 ## Directory Structure
 - ## [**Web Technologies and Programming**](Web%20Technologies%20and%20Programming)<div id="section1"></div>
   - ### [**JavaScript Programming with React, Node & MongoDB Specialization**](Web%20Technologies%20and%20Programming/JavaScript%20Programming%20with%20React,%20Node%20&%20MongoDB%20Specialization)
