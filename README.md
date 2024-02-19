@@ -13,7 +13,7 @@ This repository serves as a comprehensive collection of lab exercises from vario
   - [Foundations of Software Testing and Validation](#section2)
   - [Java Testing Specialization](#section3)
 - **Advanced Algorithms and Complexity**
-
+  - [Data Structures and Performance](#sectionDataStructuresandPerformance)
 - **Machine Learning & AI**
 
 - **Database Administration**
@@ -88,3 +88,7 @@ This repository serves as a comprehensive collection of lab exercises from vario
   - ### [**Foundations of Software Testing and Validation**]()<div id="section2"></div>
   
   - ### [**Java Testing Specialization**]()<div id="section3"></div>
+- ## [**Advanced Algorithms and Complexity**](Advanced%20Algorithms%20and%20Complexity)<div id="sectionDataStructuresandPerformance"></div>
+  - ### [Data Structures and Performance/](Advanced%20Algorithms%20and%20Complexity/Data%20Structures%20and%20Performance/)
+    - Week 4
+      - [Implement and Test a Linked List/](Advanced%20Algorithms%20and%20Complexity/Data%20Structures%20and%20Performance/Week%204/Implement%20and%20Test%20a%20Linked%20List/)
