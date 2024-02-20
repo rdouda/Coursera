@@ -93,4 +93,4 @@ This repository serves as a comprehensive collection of lab exercises from vario
       - [Implement and Test a Linked List](Advanced%20Algorithms%20and%20Complexity/Data%20Structures%20and%20Performance/Week%204/Implement%20and%20Test%20a%20Linked%20List/)
 
 - ## [**Machine Learning & AI**](Machine%20Learning%20&AI/)<div id="machine-learning--ai"></div>
-  - ### [Applied Machine Learning in Python](Machine%20Learning%20&AI/Applied%20Machine%20Learning%20in%20Python)<div id="applied-machine-learning-in-python"></div>
+  - ### [Applied Machine Learning in Python](Machine%20Learning%20&%20AI/Applied%20Machine%20Learning%20in%20Python/)<div id="applied-machine-learning-in-python"></div>
