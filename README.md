@@ -13,6 +13,7 @@ This repository serves as a comprehensive collection of lab exercises from vario
 - [**Software Testing**](#software-testing)
   - [Foundations of Software Testing and Validation](#foundations-of-software-testing-and-validation)
   - [Java Testing Specialization](#java-testing-specialization)
+  - [Software Testing JUnit](#software-testing-junit)
 - [**Advanced Algorithms and Complexity**](#advanced-algorithms-and-complexity)
   - [Data Structures and Performance](#data-structures-and-performance)
 - [**Machine Learning & AI**](#machine-learning--ai)
@@ -84,7 +85,8 @@ This repository serves as a comprehensive collection of lab exercises from vario
 - ## [**Software Testing**](Software%20Testing/)<div id="software-testing"></div>
   - ### [**Foundations of Software Testing and Validation**](Software%20Testing/Foundations%20of%20Software%20Testing%20and%20Validation/)<div id="foundations-of-software-testing-and-validation"></div>
   - ### [**Java Testing Specialization**](Software%20Testing/Java%20Testing%20Specialization)<div id="java-testing-specialization"></div>
-
+  - ### [**Software Testing JUnit**](Software%20Testing/Software%20Testing%20JUnit/)<div id="software-testing-junit"></div>
+    - [Lab 2 Software Testing JUnit](Software%20Testing/Software%20Testing%20JUnit/Lab%202/)
 - ## [**Advanced Algorithms and Complexity**](Advanced%20Algorithms%20and%20Complexity)<div id="advanced-algorithms-and-complexity"></div>
   - ### [Data Structures and Performance](Advanced%20Algorithms%20and%20Complexity/Data%20Structures%20and%20Performance/)<div id="data-structures-and-performance"></div>
     - Week 4
