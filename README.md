@@ -18,6 +18,7 @@ This repository serves as a comprehensive collection of lab exercises from vario
   - [Data Structures and Performance](#data-structures-and-performance)
 - [**Machine Learning & AI**](#machine-learning--ai)
   - [Applied Machine Learning in Python](#applied-machine-learning-in-python)
+  - [Build a Machine Learning Web App with Streamlit and Python](#build-a-machine-learning-web-app-with-streamlit-and-python)
 - **Database Administration**
 
 - **Data Warehouse**
@@ -94,3 +95,4 @@ This repository serves as a comprehensive collection of lab exercises from vario
 
 - ## [**Machine Learning & AI**](Machine%20Learning%20&AI/)<div id="machine-learning--ai"></div>
   - ### [Applied Machine Learning in Python](Machine%20Learning%20&%20AI/Applied%20Machine%20Learning%20in%20Python/)<div id="applied-machine-learning-in-python"></div>
+  - ### [Build a Machine Learning Web App with Streamlit and Python](Machine%20Learning%20&%20AI/Build%20a%20Machine%20Learning%20Web%20App%20with%20Streamlit%20and%20Python/)<div id="build-a-machine-learning-web-app-with-streamlit-and-python"></div>
