@@ -60,6 +60,7 @@ This repository serves as a comprehensive collection of lab exercises from vario
       - Week 2
         - [React Todo List Application](Web%20Technologies%20and%20Programming/JavaScript%20Programming%20with%20React,%20Node%20&%20MongoDB%20Specialization/Developing%20Front-End%20Apps%20with%20React/Week%20/React%20Todo%20List%20Application/)
       - Week 3
+        - [React Redux](Web%20Technologies%20and%20Programming/JavaScript%20Programming%20with%20React,%20Node%20&%20MongoDB%20Specialization/Developing%20Front-End%20Apps%20with%20React/Week%203/react-redux/)
       - Week 4
     - #### [**Developing Back-End Apps with Node.js and Express**](Web%20Technologies%20and%20Programming/JavaScript%20Programming%20with%20React,%20Node%20&%20MongoDB%20Specialization/Developing%20Back-End%20Apps%20with%20Node.js%20and%20Express/)<div id="developing-back-end-apps-with-nodejs-and-express"></div>
       - Week 1
