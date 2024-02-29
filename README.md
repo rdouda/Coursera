@@ -63,7 +63,7 @@ This repository serves as a comprehensive collection of lab exercises from vario
         - [React Redux](Web%20Technologies%20and%20Programming/JavaScript%20Programming%20with%20React,%20Node%20&%20MongoDB%20Specialization/Developing%20Front-End%20Apps%20with%20React/Week%203/react-redux/)
       - Week 4
         - [Budget Allocation Application](Web%20Technologies%20and%20Programming/JavaScript%20Programming%20with%20React,%20Node%20&%20MongoDB%20Specialization/Developing%20Front-End%20Apps%20with%20React/Week%204/Budget%20Allocation%20Application/)
-        - [Budget Allocation Application](Web%20Technologies%20and%20Programming/JavaScript%20Programming%20with%20React,%20Node%20&%20MongoDB%20Specialization/Developing%20Front-End%20Apps%20with%20React/Week%204/Final%20Project%20Budget%20Allocation%20Application%20Enhanced/)
+        - [Final Project Budget Allocation Application Enhanced](Web%20Technologies%20and%20Programming/JavaScript%20Programming%20with%20React,%20Node%20&%20MongoDB%20Specialization/Developing%20Front-End%20Apps%20with%20React/Week%204/Final%20Project%20Budget%20Allocation%20Application%20Enhanced/)
     - #### [**Developing Back-End Apps with Node.js and Express**](Web%20Technologies%20and%20Programming/JavaScript%20Programming%20with%20React,%20Node%20&%20MongoDB%20Specialization/Developing%20Back-End%20Apps%20with%20Node.js%20and%20Express/)<div id="developing-back-end-apps-with-nodejs-and-express"></div>
       - Week 1
       - Week 2
