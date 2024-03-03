@@ -66,7 +66,10 @@ This repository serves as a comprehensive collection of lab exercises from vario
         - [Final Project Budget Allocation Application Enhanced](Web%20Technologies%20and%20Programming/JavaScript%20Programming%20with%20React,%20Node%20&%20MongoDB%20Specialization/Developing%20Front-End%20Apps%20with%20React/Week%204/Final%20Project%20Budget%20Allocation%20Application%20Enhanced/)
     - #### [**Developing Back-End Apps with Node.js and Express**](Web%20Technologies%20and%20Programming/JavaScript%20Programming%20with%20React,%20Node%20&%20MongoDB%20Specialization/Developing%20Back-End%20Apps%20with%20Node.js%20and%20Express/)<div id="developing-back-end-apps-with-nodejs-and-express"></div>
       - Week 1
+        - [First JavaScript Server](Web%20Technologies%20and%20Programming/JavaScript%20Programming%20with%20React,%20Node%20&%20MongoDB%20Specialization/Developing%20Back-End%20Apps%20with%20Node.js%20and%20Express/Week%201/JavaScript%20Server/)
       - Week 2
+        - [Async Callback Programming](Web%20Technologies%20and%20Programming/JavaScript%20Programming%20with%20React,%20Node%20&%20MongoDB%20Specialization/Developing%20Back-End%20Apps%20with%20Node.js%20and%20Express/Week%202/Async%20Callback%20Programing/)
+        - [Promises and Callback](Web%20Technologies%20and%20Programming/JavaScript%20Programming%20with%20React,%20Node%20&%20MongoDB%20Specialization/Developing%20Back-End%20Apps%20with%20Node.js%20and%20Express/Week%202/Promises%20and%20Call%20Back/)
       - Week 3
       - Week 4
     - #### [**Intermediate Back-end Development with Node and MongoDB**](Web%20Technologies%20and%20Programming/JavaScript%20Programming%20with%20React,%20Node%20&%20MongoDB%20Specialization/Intermediate%20Back-end%20Development%20with%20Node%20and%20MongoDB/)
