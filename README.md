@@ -75,6 +75,7 @@ This repository serves as a comprehensive collection of lab exercises from vario
       - Week 4
         - [Friends List Application](Web%20Technologies%20and%20Programming/JavaScript%20Programming%20with%20React,%20Node%20&%20MongoDB%20Specialization/Developing%20Back-End%20Apps%20with%20Node.js%20and%20Express/Week%204/Friends%20List%20Application/)
         - [Book Review Application](Web%20Technologies%20and%20Programming/JavaScript%20Programming%20with%20React,%20Node%20&%20MongoDB%20Specialization/Developing%20Back-End%20Apps%20with%20Node.js%20and%20Express/Week%204/Book%20Review%20Application/)
+        - [Final Project](Web%20Technologies%20and%20Programming/JavaScript%20Programming%20with%20React,%20Node%20&%20MongoDB%20Specialization/Developing%20Back-End%20Apps%20with%20Node.js%20and%20Express/Week%204/Final%20Project/)
     - #### [**Intermediate Back-end Development with Node and MongoDB**](Web%20Technologies%20and%20Programming/JavaScript%20Programming%20with%20React,%20Node%20&%20MongoDB%20Specialization/Intermediate%20Back-end%20Development%20with%20Node%20and%20MongoDB/)
   - ### [React Basics](Web%20Technologies%20and%20Programming/React%20Basics/)<div id="react-basics"></div>
     - Week 1
