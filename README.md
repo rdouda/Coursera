@@ -71,7 +71,9 @@ This repository serves as a comprehensive collection of lab exercises from vario
         - [Async Callback Programming](Web%20Technologies%20and%20Programming/JavaScript%20Programming%20with%20React,%20Node%20&%20MongoDB%20Specialization/Developing%20Back-End%20Apps%20with%20Node.js%20and%20Express/Week%202/Async%20Callback%20Programing/)
         - [Promises and Callback](Web%20Technologies%20and%20Programming/JavaScript%20Programming%20with%20React,%20Node%20&%20MongoDB%20Specialization/Developing%20Back-End%20Apps%20with%20Node.js%20and%20Express/Week%202/Promises%20and%20Call%20Back/)
       - Week 3
+        - [Express Server](Web%20Technologies%20and%20Programming/JavaScript%20Programming%20with%20React,%20Node%20&%20MongoDB%20Specialization/Developing%20Back-End%20Apps%20with%20Node.js%20and%20Express/Week%203/Express%20Server/)
       - Week 4
+        - [Friends List Application](Web%20Technologies%20and%20Programming/JavaScript%20Programming%20with%20React,%20Node%20&%20MongoDB%20Specialization/Developing%20Back-End%20Apps%20with%20Node.js%20and%20Express/Week%204/Friends%20List%20Application/)
     - #### [**Intermediate Back-end Development with Node and MongoDB**](Web%20Technologies%20and%20Programming/JavaScript%20Programming%20with%20React,%20Node%20&%20MongoDB%20Specialization/Intermediate%20Back-end%20Development%20with%20Node%20and%20MongoDB/)
   - ### [React Basics](Web%20Technologies%20and%20Programming/React%20Basics/)<div id="react-basics"></div>
     - Week 1
