@@ -1,0 +1,26 @@
+version: '3'
+
+services:
+  express-app:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    working_dir: /app
+    volumes:
+      - .:/app
+    ports:
+      - "3000:3000"
+    environment:
+      NODE_ENV: production
+    depends_on:
+      - mysql-db
+
+  mysql-db:
+    image: mysql:latest
+    environment:
+      MYSQL_ROOT_PASSWORD: rdouda
+      MYSQL_DATABASE: app_database
+      MYSQL_USER: rdouda
+      MYSQL_PASSWORD: rdouda
+    ports:
+      - "3306:3306"
