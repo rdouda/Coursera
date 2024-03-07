@@ -81,6 +81,8 @@ This repository serves as a comprehensive collection of lab exercises from vario
     - Week 1
       - [Your First Component](Web%20Technologies%20and%20Programming/React%20Basics/Week%201/Your%20First%20Component/)
       - [Creating and importing components](Web%20Technologies%20and%20Programming/React%20Basics/Week%201/Creating%20and%20importing%20components/)
+      - [Passing props](Web%20Technologies%20and%20Programming/React%20Basics/Week%201/Passing%20Props/)
+      - [Multiple components](Web%20Technologies%20and%20Programming/React%20Basics/Week%201/Multiple%20components/)
   - ### [Advanced React](Web%20Technologies%20and%20Programming/Advanced%20React/)<div id="advanced-react"></div>
 
   - ### [Building RESTful APIs with Node.js and Express](Web%20Technologies%20and%20Programming/Building%20RESTful%20APIs%20with%20Node.js%20and%20Express/)<div id="building-restful-apis-with-nodejs-and-express"></div>
