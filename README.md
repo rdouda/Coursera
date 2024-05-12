@@ -15,6 +15,8 @@ This repository serves as a comprehensive collection of lab exercises from vario
   - [Java Testing Specialization](#java-testing-specialization)
   - [Software Testing JUnit](#software-testing-junit)
 - [**Advanced Algorithms and Complexity**](#advanced-algorithms-and-complexity)
+  - [Lab Collections](#lab-collections)
+  - [Lab Graphs](#lab-graphs)
   - [Data Structures and Performance](#data-structures-and-performance)
 - [**Machine Learning & AI**](#machine-learning--ai)
   - [Applied Machine Learning in Python](#applied-machine-learning-in-python)
@@ -104,6 +106,8 @@ This repository serves as a comprehensive collection of lab exercises from vario
   - ### [**Software Testing JUnit**](Software%20Testing/Software%20Testing%20JUnit/)<div id="software-testing-junit"></div>
     - [Lab 2 Software Testing JUnit](Software%20Testing/Software%20Testing%20JUnit/Lab%202/)
 - ## [**Advanced Algorithms and Complexity**](Advanced%20Algorithms%20and%20Complexity)<div id="advanced-algorithms-and-complexity"></div>
+  - ### [Lab Collections](Advanced%20Algorithms%20and%20Complexity/Data%20Structures%20and%20Performance/Lab%20Collections)<div id="lab-collections"></div>
+  - ### [Lab Graphs](Advanced%20Algorithms%20and%20Complexity/Data%20Structures%20and%20Performance/Lab%20Graphs)<div id="lab-graphs"></div>
   - ### [Data Structures and Performance](Advanced%20Algorithms%20and%20Complexity/Data%20Structures%20and%20Performance/)<div id="data-structures-and-performance"></div>
     - Week 4
       - [Implement and Test a Linked List](Advanced%20Algorithms%20and%20Complexity/Data%20Structures%20and%20Performance/Week%204/Implement%20and%20Test%20a%20Linked%20List/)
